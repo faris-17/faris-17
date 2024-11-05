@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammed Faris K</h1>
 <h3 align="center">A passionate Flutter developer in trainee from India</h3>
 
-- 🔭 I’m currently working on **Fake news Detection using ML**
+- 🔭 I’m currently working on **Flutter Framework**
 
 - 📫 How to reach me **muhammedfarisk703@gmail.com**
 
